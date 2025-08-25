@@ -22,8 +22,8 @@
       "keepouts": false,
       "lockedItems": false,
       "otherItems": false,
-      "pads": true,
-      "text": true,
+      "pads": false,
+      "text": false,
       "tracks": true,
       "vias": true,
       "zones": false
@@ -87,16 +87,16 @@
       9
     ],
     "col_widths": [
-      294,
-      279,
-      173,
-      120,
-      173,
-      173,
-      173,
-      126,
-      173,
-      173
+      392,
+      372,
+      231,
+      160,
+      231,
+      231,
+      231,
+      168,
+      231,
+      231
     ],
     "custom_group_rules": [],
     "expanded_rows": [],

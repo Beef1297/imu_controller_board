@@ -1,5 +1,12 @@
 Comment,Designator,Footprint,LCSC,Quantity
-IMU_connector_1_0.5mm,"CS1_0.5,CS2_0.5,CS3_0.5,CS4_0.5,CS5_0.5,CS6_0.5,CS7_0.5,CS8_0.5",AFH34-S07FIA-1H,C22371800,8
-IMU_connector_1_1.0mm,"CS1_1.0,CS2_1.0,CS3_1.0,CS4_1.0,CS5_1.0,CS6_1.0,CS7_1.0,CS8_1.0",FPC-SMD_7P-P1.00_HDGC_1.0K-GT-7PB,C2915519,8
-SIGNAL_DEBUG_PIN,DEBUG1,PinHeader_2x06_P2.54mm_Vertical,,1
+IMU_connector_1_1.0mm,"CS1_1.0,CS2_1.0,CS3_1.0,CS4_1.0,CS5_1.0,CS6_1.0,CS7_1.0,CS8_1.0",FPC-SMD_XUNPU_FPC-1.0FX-7PWCR-H20,C19269350,8
+IMU_connector_1_0.5mm,"CS1_0.5,CS2_0.5,CS3_0.5,CS4_0.5,CS5_0.5,CS6_0.5,CS7_0.5,CS8_0.5",FC-5A7P11H20-05pitch_7pin,C23398831,8
 XIAO-ESP32-C6,U1,XIAO-ESP32C6-DIP,,1
+CS1_JP,J1,PinHeader_1x06_P2.54mm_Vertical,,1
+CS2_JP,J2,PinHeader_1x06_P2.54mm_Vertical,,1
+CS3_JP,J3,PinHeader_1x06_P2.54mm_Vertical,,1
+CS8_JP,J8,PinHeader_1x06_P2.54mm_Vertical,,1
+CS7_JP,J7,PinHeader_1x06_P2.54mm_Vertical,,1
+CS6_JP,J6,PinHeader_1x06_P2.54mm_Vertical,,1
+CS5_JP,J5,PinHeader_1x06_P2.54mm_Vertical,,1
+CS4_JP,J4,PinHeader_1x06_P2.54mm_Vertical,,1
